@@ -4,20 +4,20 @@ A basic React and TailwindCSS demo landing page for the [VaultForge Wallet](http
 
 ## Development
 
-Install dependencies with Bun:
+Install dependencies:
 
 ```bash
-bun install
+npm install
 ```
 
 Run locally:
 
 ```bash
-bun run dev
+npm run dev
 ```
 
 Build for production:
 
 ```bash
-bun run build
+npm run build
 ```
